@@ -1,0 +1,26 @@
+{
+	"success":true,
+	"data":{
+		"rankList":[{
+			"id":1,
+			"src":"https://booklibimg.kfzimg.com/data/book_lib_img_v2/user/2/a01c/a01c776e123162395feb6f01281581dc_0_2_140_140.jpg",
+			"rank":1,
+			"href":"/",
+			"bookName":"塔希里亚故事集·秘典"
+		},{
+			"id":2,
+			"src":"https://booklibimg.kfzimg.com/data/book_lib_img_v2/user/2/1df1/1df103a5a2214d4ffd3fa79f9e165164_0_2_140_140.jpg",
+			"rank":2,
+			"href":"/",
+			"bookName":"中世纪战争艺术史（第一卷)"
+		},{
+			"id":3,
+			"src":"https://booklibimg.kfzimg.com/data/book_lib_img_v2/user/2/914a/914aa1544d2164568a9e15c140d8a2d3_0_2_140_140.jpg",
+			"rank":3,
+			"href":"/",
+			"bookName":"星空字典"
+		}]
+	}
+
+
+}
